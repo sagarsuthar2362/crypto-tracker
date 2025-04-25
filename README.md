@@ -30,3 +30,13 @@ A responsive React + Redux Toolkit application that tracks real-time cryptocurre
    ```bash
    git clone https://github.com/your-username/crypto-price-tracker.git
    cd crypto-price-tracker
+
+2. Install Dependencies:
+   ```bash
+   npm install
+
+3. Start the development server:
+    ```bash
+       nm run dev
+
+4.Open http://localhost:5173 in your browser   
